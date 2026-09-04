@@ -1,4 +1,4 @@
-# AI Shopping Assistant
+# GrowthPilot AI — AI Shopping Assistant
 
 ## Overview
 
