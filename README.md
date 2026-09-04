@@ -49,43 +49,36 @@ GrowthPilot AI provides an intuitive and responsive interface that helps busines
 
 ```text
 GrowthPilot-AI/
-│── public/
-│   ├── images/
-│   └── assets/
 │
-│── src/
-│   ├── components/
-│   │   ├── Dashboard/
-│   │   ├── Product/
-│   │   ├── Analytics/
-│   │   ├── AI/
-│   │   └── Common/
-│   │
-│   ├── pages/
-│   │   ├── Dashboard.jsx
-│   │   ├── Products.jsx
-│   │   ├── Analytics.jsx
-│   │   └── AIInsights.jsx
-│   │
-│   ├── services/
-│   │   └── aiService.js
-│   │
-│   ├── hooks/
-│   ├── utils/
-│   ├── data/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+├── backend/
+|   ├── __pycache__
+│   ├── agent/               
+│   ├── tools/              
+│   ├── main.py              
+│   └── requirements.txt     
 │
-│── .env.example
-│── .gitignore
-│── README.md
-│── eslint.config.js
-│── index.html
-│── package.json
-│── package-lock.json
-│── tailwind.config.js
-└── vite.config.js
+├── frontend/
+│   └── src/
+│       └── components/
+│           ├── Chat.jsx     
+│           ├── Message.jsx  
+│           └── Sidebar.jsx
+│
+├── server/                  
+├── src/                     
+├── public/                  
+├── database.sqlite          
+├── .env
+├── .env.example
+├── .gitignore
+├── .oxlintric.json
+├── index.html           
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
 ```
 
 ---
