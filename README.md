@@ -320,8 +320,6 @@ GrowthPilot AI provides:
 
 B.Tech (Artificial Intelligence & Machine Learning)
 
-GitHub: `vivek-0405`
-
 ---
 
 ## License
