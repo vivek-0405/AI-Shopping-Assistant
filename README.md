@@ -1,4 +1,4 @@
-# GrowthPilot AI — AI Growth & Agentic Commerce Platform
+# AI Shopping Assistant
 
 ## Overview
 
